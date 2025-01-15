@@ -1,10 +1,8 @@
 name: _CMEC_asop_coherence
-
 channels:
   - ncas
   - conda-forge
   - defaults
-
 dependencies:
   - cartopy=0.18.0
   - cf-plot=3.0.19
@@ -21,3 +19,4 @@ dependencies:
   - python=3.7.6
   - scipy=1.6.2
   - udunits2=2.2.27.27
+
